@@ -1,6 +1,6 @@
 package kr.megaptera.backendsurvivalweek10.infrastructure;
 
-import kr.megaptera.backendsurvivalweek10.dtos.CartDto;
+import kr.megaptera.backendsurvivalweek10.dtos.cart.CartDto;
 import kr.megaptera.backendsurvivalweek10.models.CartId;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;

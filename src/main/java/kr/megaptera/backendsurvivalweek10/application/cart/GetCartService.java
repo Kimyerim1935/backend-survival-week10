@@ -1,6 +1,6 @@
 package kr.megaptera.backendsurvivalweek10.application.cart;
 
-import kr.megaptera.backendsurvivalweek10.dtos.CartDto;
+import kr.megaptera.backendsurvivalweek10.dtos.cart.CartDto;
 import kr.megaptera.backendsurvivalweek10.infrastructure.CartDtoFetcher;
 import kr.megaptera.backendsurvivalweek10.models.CartId;
 import org.springframework.stereotype.Service;

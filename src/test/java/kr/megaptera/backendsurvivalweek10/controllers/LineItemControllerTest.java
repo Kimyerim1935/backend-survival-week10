@@ -3,7 +3,7 @@ package kr.megaptera.backendsurvivalweek10.controllers;
 import kr.megaptera.backendsurvivalweek10.application.cart.AddProductToCartService;
 import kr.megaptera.backendsurvivalweek10.application.cart.ChangeCartItemQuantityService;
 import kr.megaptera.backendsurvivalweek10.application.cart.GetCartService;
-import kr.megaptera.backendsurvivalweek10.dtos.CartDto;
+import kr.megaptera.backendsurvivalweek10.dtos.cart.CartDto;
 import kr.megaptera.backendsurvivalweek10.models.LineItemId;
 import kr.megaptera.backendsurvivalweek10.models.ProductId;
 import org.junit.jupiter.api.DisplayName;

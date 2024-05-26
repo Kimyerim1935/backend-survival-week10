@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BackendSurvivalWeek10Application {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(BackendSurvivalWeek10Application.class, args);
 	}
-
 }

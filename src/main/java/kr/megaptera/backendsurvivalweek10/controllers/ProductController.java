@@ -2,8 +2,8 @@ package kr.megaptera.backendsurvivalweek10.controllers;
 
 import kr.megaptera.backendsurvivalweek10.application.product.CreateProductService;
 import kr.megaptera.backendsurvivalweek10.application.product.GetProductListService;
-import kr.megaptera.backendsurvivalweek10.dtos.CreateProductDto;
-import kr.megaptera.backendsurvivalweek10.dtos.ProductListDto;
+import kr.megaptera.backendsurvivalweek10.dtos.product.CreateProductDto;
+import kr.megaptera.backendsurvivalweek10.dtos.product.ProductListDto;
 import kr.megaptera.backendsurvivalweek10.models.Money;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
